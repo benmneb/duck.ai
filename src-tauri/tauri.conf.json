@@ -3,9 +3,6 @@
   "productName": "Duck.ai",
   "version": "0.1.0",
   "identifier": "com.duckai.app",
-  "build": {
-    "frontendDist": "../src"
-  },
   "app": {
     "withGlobalTauri": true,
     "windows": [
