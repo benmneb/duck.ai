@@ -15,3 +15,13 @@ Simple wrapper around [duck.ai](https://duck.ai) for ease of use in a dedicated 
 1. Build the project: `pnpm tauri build` (see https://tauri.app/distribute/ for more)
 1. Move the built application to your preferred location
 1. Profit.
+
+## License
+
+Copyright © benmneb
+
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar.
+
+See http://www.wtfpl.net/ for more details.
