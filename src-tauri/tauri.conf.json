@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "duckai",
+  "productName": "Duck.ai",
   "version": "0.1.0",
   "identifier": "com.duckai.app",
   "build": {
@@ -10,9 +10,10 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "duckai",
+        "title": "Duck.ai",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "url": "https://duck.ai"
       }
     ],
     "security": {
